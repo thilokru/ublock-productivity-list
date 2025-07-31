@@ -1,3 +1,4 @@
+! Title: Productivity Filter List
 ! Block reddit
 ||*reddit.com/^
 ||*reddit.com/r/de$document
