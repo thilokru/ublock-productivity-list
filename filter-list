@@ -1,0 +1,15 @@
+! Block reddit
+||*reddit.com/^
+||*reddit.com/r/de$document
+||*reddit.com/r/popular
+
+! But exclude hfy
+||~*reddit.com/r/hfy
+
+||tagesschau.de
+||heise.de
+
+! News pages by ZDF
+||zdfheute.de
+||heute.zdf.de
+||heute.de
