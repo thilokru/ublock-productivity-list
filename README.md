@@ -7,6 +7,6 @@ If you want concise news updates, I recommend an rss feed reader to provide chro
 
 To include this list in uBlock origin, add
 ```
-https://github.com/thilokru/ublock-productivity-list/filter-list
+https://raw.githubusercontent.com/thilokru/ublock-productivity-list/refs/heads/main/filter-list
 ```
 under `Filter Lists` and `Import...`
