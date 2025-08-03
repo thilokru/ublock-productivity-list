@@ -1,11 +1,9 @@
 ! Title: Productivity Filter List
 ! Block reddit
-||*reddit.com/$document
-!||*reddit.com/r/de$document
-!||*reddit.com/r/popular
+||reddit.com/$document
 
 ! But exclude hfy
-||~*reddit.com/r/hfy
+@@||reddit.com/r/hfy
 
 ||tagesschau.de
 ||heise.de
