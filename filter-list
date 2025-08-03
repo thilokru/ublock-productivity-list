@@ -1,8 +1,8 @@
 ! Title: Productivity Filter List
 ! Block reddit
-||*reddit.com/^
-||*reddit.com/r/de$document
-||*reddit.com/r/popular
+||*reddit.com/$document
+!||*reddit.com/r/de$document
+!||*reddit.com/r/popular
 
 ! But exclude hfy
 ||~*reddit.com/r/hfy
