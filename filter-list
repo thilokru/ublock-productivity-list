@@ -5,13 +5,13 @@
 ! But exclude hfy
 @@||reddit.com/r/hfy
 
-||tagesschau.de
-||heise.de
+||tagesschau.de$document
+||heise.de$document
 
 ! News pages by ZDF
-||zdfheute.de
-||heute.zdf.de
-||heute.de
+||zdfheute.de$document
+||heute.zdf.de$document
+||heute.de$document
 
 ! No news from google either
 ||news.google.*
